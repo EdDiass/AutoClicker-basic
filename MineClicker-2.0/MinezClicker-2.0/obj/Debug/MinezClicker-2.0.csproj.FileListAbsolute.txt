@@ -1,0 +1,11 @@
+C:\Users\E.d\source\repos\MinezClicker-2.0\MinezClicker-2.0\bin\Debug\MinezClicker-2.0.exe.config
+C:\Users\E.d\source\repos\MinezClicker-2.0\MinezClicker-2.0\bin\Debug\MinezClicker-2.0.exe
+C:\Users\E.d\source\repos\MinezClicker-2.0\MinezClicker-2.0\bin\Debug\MinezClicker-2.0.pdb
+C:\Users\E.d\source\repos\MinezClicker-2.0\MinezClicker-2.0\obj\Debug\MinezClicker-2.0.csproj.AssemblyReference.cache
+C:\Users\E.d\source\repos\MinezClicker-2.0\MinezClicker-2.0\obj\Debug\MinezClicker-2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\E.d\source\repos\MinezClicker-2.0\MinezClicker-2.0\obj\Debug\MinezClicker_2._0.Form1.resources
+C:\Users\E.d\source\repos\MinezClicker-2.0\MinezClicker-2.0\obj\Debug\MinezClicker_2._0.Properties.Resources.resources
+C:\Users\E.d\source\repos\MinezClicker-2.0\MinezClicker-2.0\obj\Debug\MinezClicker-2.0.csproj.GenerateResource.cache
+C:\Users\E.d\source\repos\MinezClicker-2.0\MinezClicker-2.0\obj\Debug\MinezClicker-2.0.csproj.CoreCompileInputs.cache
+C:\Users\E.d\source\repos\MinezClicker-2.0\MinezClicker-2.0\obj\Debug\MinezClicker-2.0.exe
+C:\Users\E.d\source\repos\MinezClicker-2.0\MinezClicker-2.0\obj\Debug\MinezClicker-2.0.pdb
